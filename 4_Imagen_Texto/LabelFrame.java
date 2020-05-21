@@ -1,5 +1,4 @@
 package 4_Imagen_Texto;
-// Fig. 11.6: LabelFrame.java
 // Demostración de la clase JLabel.
 import java.awt.FlowLayout; // especifica cómo se van a ordenar los componentes
 import javax.swing.JFrame; // proporciona las características básicas de una ventana

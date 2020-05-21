@@ -1,6 +1,4 @@
 package 4_Imagen_Texto;
-
-// Fig. 11.7: PruebaLabel.java
 // Prueba de LabelFrame.
 import javax.swing.JFrame;
 
