@@ -8,12 +8,11 @@ import javax.swing.JTextField;
 import javax.swing.JPasswordField;
 import javax.swing.JOptionPane;
 
-public class CampoTextoMarco extends JFrame
-{
-private JTextField campoTexto1; // campo de texto con tamaño fijo
-private JTextField campoTexto2; // campo de texto construido con texto
-private JTextField campoTexto3; // campo de texto con texto y tamaño
-private JPasswordField campoContrasenia; // campo de contraseña con texto
+public class CampoTextoMarco extends JFrame{
+    private JTextField campoTexto1; // campo de texto con tamaño fijo
+    private JTextField campoTexto2; // campo de texto construido con texto
+    private JTextField campoTexto3; // campo de texto con texto y tamaño
+    private JPasswordField campoContrasenia; // campo de contraseña con texto
 
 // El constructor de CampoTextoMarco agrega objetos JTextField a JFrame
 public CampoTextoMarco()

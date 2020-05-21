@@ -42,5 +42,7 @@ public MarcoBoton(){
     {
     JOptionPane.showMessageDialog( MarcoBoton.this, String.format("Usted oprimio: %s", evento.getActionCommand() ) );
      } // fin del método actionPerformed
+
    } // fin de la clase interna privada ManejadorBoton
+   
 } // fin de la clase MarcoBoton
